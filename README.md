@@ -60,14 +60,6 @@
 
 ---
 
-## 📊 Activity
-
-```text
-Loading activity graph...
-```
-
----
-
 <p align="center">
   <a href="https://github.com/jocasta-debug">
     <img src="https://img.shields.io/badge/GitHub-jocasta--debug-black?style=flat&logo=github" alt="GitHub"/>
